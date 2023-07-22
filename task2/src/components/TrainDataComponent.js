@@ -14,9 +14,9 @@ const TrainDataComponent = () => {
         companyName: "Train Central",
         clientID: "4482aacb-b053-450f-ae5e-f27993578d55",
         clientSecret: "WeqXXYMdxTRsqOTD",
-        ownerName: "Ravi Kumar",
-        ownerEmail: "ravikumar7518989121@gmail.com",
-        rollNo: "2000330100175",
+        ownerName: "Rahul Maurya",
+        ownerEmail: "maurya2811@gmail.com",
+        rollNo: "2000330100171",
       });
 
       localStorage.setItem("token", result.data.access_token);
